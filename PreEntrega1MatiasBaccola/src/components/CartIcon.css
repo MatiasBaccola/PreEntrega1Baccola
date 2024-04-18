@@ -1,0 +1,8 @@
+.cart__container > span{
+    color: red
+    
+}
+
+.cart__container {
+    margin-left: 50px;
+}
